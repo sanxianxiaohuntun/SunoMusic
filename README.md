@@ -1,4 +1,4 @@
-# HelloPlugin
+# SunoMusic 音乐生成插件
 
 <!--
 ## 插件开发者详阅
@@ -27,6 +27,7 @@
 
 下方是给用户看的内容，按需修改
 -->
+一个基于 Suno API 的音乐生成插件，支持自然语言描述生成音乐。
 
 ## 安装
 
@@ -37,9 +38,6 @@
 ```
 或查看详细的[插件安装说明](https://docs.langbot.app/plugin/plugin-intro.html#%E6%8F%92%E4%BB%B6%E7%94%A8%E6%B3%95)
 
-# SunoMusic 音乐生成插件
-
-一个基于 Suno API 的音乐生成插件，支持自然语言描述生成音乐。
 
 ## 功能特点
 

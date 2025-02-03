@@ -1,0 +1,4 @@
+# Suno API 配置
+api_token: "sk-oRr4Df4l4uAKOa2AgsDyuxaXyHHXZ6wN5NN4zapwuwc2Zh73"
+api_base: "https://api.ephone.ai"
+model: "suno_music" 

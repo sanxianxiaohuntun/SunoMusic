@@ -38,6 +38,13 @@
 ```
 或查看详细的[插件安装说明](https://docs.langbot.app/plugin/plugin-intro.html#%E6%8F%92%E4%BB%B6%E7%94%A8%E6%B3%95)
 
+## 使用的第三方程序
+
+本项目使用了以下第三方程序：
+
+- [FFmpeg](https://github.com/FFmpeg/FFmpeg)
+- [silk-v3-decoder](https://github.com/kn007/silk-v3-decoder)
+
 
 ## 功能特点
 
